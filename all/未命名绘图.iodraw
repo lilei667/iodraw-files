@@ -37,12 +37,13 @@
         <mxCell id="sf-EexR4Gt1OWCJzuhQ5-10" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="405" y="438" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sf-EexR4Gt1OWCJzuhQ5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sf-EexR4Gt1OWCJzuhQ5-12">
+        <mxCell id="sf-EexR4Gt1OWCJzuhQ5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1.014;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sf-EexR4Gt1OWCJzuhQ5-12" target="sf-EexR4Gt1OWCJzuhQ5-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="320" as="targetPoint" />
             <Array as="points">
               <mxPoint x="660" y="410" />
-              <mxPoint x="660" y="320" />
+              <mxPoint x="660" y="300" />
+              <mxPoint x="525" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
