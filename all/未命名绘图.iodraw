@@ -37,7 +37,7 @@
         <mxCell id="sf-EexR4Gt1OWCJzuhQ5-10" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="405" y="438" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sf-EexR4Gt1OWCJzuhQ5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sf-EexR4Gt1OWCJzuhQ5-12">
+        <mxCell id="sf-EexR4Gt1OWCJzuhQ5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="sf-EexR4Gt1OWCJzuhQ5-12" target="sf-EexR4Gt1OWCJzuhQ5-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="320" as="targetPoint" />
             <Array as="points">
@@ -51,12 +51,6 @@
         </mxCell>
         <mxCell id="sf-EexR4Gt1OWCJzuhQ5-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;维修人员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="366" y="480" width="96" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="sf-EexR4Gt1OWCJzuhQ5-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="330" as="sourcePoint" />
-            <mxPoint x="400" y="280" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
