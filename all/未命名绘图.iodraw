@@ -12,8 +12,16 @@
         <mxCell id="sf-EexR4Gt1OWCJzuhQ5-1" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sf-EexR4Gt1OWCJzuhQ5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sf-EexR4Gt1OWCJzuhQ5-4" target="sf-EexR4Gt1OWCJzuhQ5-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sf-EexR4Gt1OWCJzuhQ5-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;查看报修记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sf-EexR4Gt1OWCJzuhQ5-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
