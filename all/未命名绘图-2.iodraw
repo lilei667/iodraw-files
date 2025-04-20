@@ -578,8 +578,14 @@
             <mxPoint y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="__T9p8TCs_aL26JxXHA3-173" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1220" width="80" height="80" as="geometry" />
+        <mxCell id="__T9p8TCs_aL26JxXHA3-173" value="对应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1169" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="__T9p8TCs_aL26JxXHA3-174" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="1280" as="sourcePoint" />
+            <mxPoint x="140" y="1230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
