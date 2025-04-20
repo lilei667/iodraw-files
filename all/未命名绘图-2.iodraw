@@ -397,8 +397,11 @@
             <mxPoint x="680" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="__T9p8TCs_aL26JxXHA3-125" value="" style="rhombus;whiteSpace=wrap;html=1;direction=west;flipH=0;flipV=0;" vertex="1" parent="1">
+        <mxCell id="__T9p8TCs_aL26JxXHA3-125" value="发布" style="rhombus;whiteSpace=wrap;html=1;direction=west;flipH=0;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1400" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="__T9p8TCs_aL26JxXHA3-126" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1378" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
