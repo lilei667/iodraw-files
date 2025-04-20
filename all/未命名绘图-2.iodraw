@@ -487,6 +487,15 @@
             <mxPoint x="560" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="__T9p8TCs_aL26JxXHA3-148" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1328" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__T9p8TCs_aL26JxXHA3-149" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="__T9p8TCs_aL26JxXHA3-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="1180" as="sourcePoint" />
+            <mxPoint x="560" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
