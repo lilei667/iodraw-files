@@ -547,6 +547,9 @@
         <mxCell id="__T9p8TCs_aL26JxXHA3-163" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="75" y="1378" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="__T9p8TCs_aL26JxXHA3-164" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1378" width="80" height="72" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
