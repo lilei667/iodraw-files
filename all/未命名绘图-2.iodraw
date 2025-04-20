@@ -187,7 +187,7 @@
             <mxPoint x="610" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="__T9p8TCs_aL26JxXHA3-68" value="username" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="__T9p8TCs_aL26JxXHA3-68" value="user_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="490" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="__T9p8TCs_aL26JxXHA3-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="__T9p8TCs_aL26JxXHA3-64" target="__T9p8TCs_aL26JxXHA3-70">
@@ -196,8 +196,14 @@
             <mxPoint x="540" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="__T9p8TCs_aL26JxXHA3-70" value="password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="__T9p8TCs_aL26JxXHA3-70" value="device_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__T9p8TCs_aL26JxXHA3-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="500" as="sourcePoint" />
+            <mxPoint x="540" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
