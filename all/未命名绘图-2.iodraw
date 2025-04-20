@@ -106,7 +106,7 @@
             <mxPoint x="240" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="__T9p8TCs_aL26JxXHA3-47" value="username" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="__T9p8TCs_aL26JxXHA3-47" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="270" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="__T9p8TCs_aL26JxXHA3-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="__T9p8TCs_aL26JxXHA3-43" target="__T9p8TCs_aL26JxXHA3-49">
