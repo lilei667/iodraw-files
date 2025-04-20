@@ -414,9 +414,12 @@
         </mxCell>
         <mxCell id="__T9p8TCs_aL26JxXHA3-129" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="__T9p8TCs_aL26JxXHA3-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="1360" as="sourcePoint" />
+            <mxPoint x="460" y="1490" as="sourcePoint" />
             <mxPoint x="470" y="1310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="__T9p8TCs_aL26JxXHA3-131" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1300" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
