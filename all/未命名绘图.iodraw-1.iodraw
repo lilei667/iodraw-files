@@ -30,12 +30,12 @@
         <mxCell id="aGPIvBexirY7dJw-lTSs-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="160" as="sourcePoint" />
-            <mxPoint x="680" y="160" as="targetPoint" />
+            <mxPoint x="690" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aGPIvBexirY7dJw-lTSs-17" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="687.5" y="170" as="sourcePoint" />
+            <mxPoint x="688" y="160" as="sourcePoint" />
             <mxPoint x="687.5" y="230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="687.5" y="190" />
