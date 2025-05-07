@@ -67,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aGPIvBexirY7dJw-lTSs-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aGPIvBexirY7dJw-lTSs-40" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;登录模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="350" width="40" height="130" as="geometry" />
