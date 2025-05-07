@@ -13,11 +13,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QdAA1zgThGXjh04x6dMX-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QdAA1zgThGXjh04x6dMX-2">
-          <mxGeometry x="-0.4072" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QdAA1zgThGXjh04x6dMX-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;学生层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="140" width="120" height="50" as="geometry" />
         </mxCell>
@@ -52,6 +47,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="230" as="sourcePoint" />
             <mxPoint x="260" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdAA1zgThGXjh04x6dMX-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="230" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
