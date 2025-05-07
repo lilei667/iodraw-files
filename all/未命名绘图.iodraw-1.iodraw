@@ -106,13 +106,13 @@
         <mxCell id="aGPIvBexirY7dJw-lTSs-53" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="310" as="sourcePoint" />
-            <mxPoint x="750" y="310" as="targetPoint" />
+            <mxPoint x="780" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aGPIvBexirY7dJw-lTSs-54" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="310" as="sourcePoint" />
-            <mxPoint x="750" y="350" as="targetPoint" />
+            <mxPoint x="779.5" y="310" as="sourcePoint" />
+            <mxPoint x="779.5" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aGPIvBexirY7dJw-lTSs-55" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;登录模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
