@@ -45,6 +45,9 @@
         <mxCell id="aGPIvBexirY7dJw-lTSs-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;学生（用户）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aGPIvBexirY7dJw-lTSs-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aGPIvBexirY7dJw-lTSs-19" target="aGPIvBexirY7dJw-lTSs-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aGPIvBexirY7dJw-lTSs-19" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
         </mxCell>
