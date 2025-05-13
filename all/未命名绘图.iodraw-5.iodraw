@@ -304,10 +304,15 @@
         <mxCell id="RHy11BjKkjhDNlUvKvqm-58" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="880" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RHy11BjKkjhDNlUvKvqm-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-59" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o7nku3Jd5gFQa7beX1s3-6" target="RHy11BjKkjhDNlUvKvqm-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="830" as="sourcePoint" />
             <mxPoint x="470" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-60" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RHy11BjKkjhDNlUvKvqm-59">
+          <mxGeometry x="0.0287" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
