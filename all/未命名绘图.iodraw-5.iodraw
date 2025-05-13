@@ -380,8 +380,8 @@
             <mxPoint x="930" y="-322" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RHy11BjKkjhDNlUvKvqm-79" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-410" width="120" height="40" as="geometry" />
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-79" value="username&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-410" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
