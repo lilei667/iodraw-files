@@ -101,9 +101,9 @@
         <mxCell id="o7nku3Jd5gFQa7beX1s3-24" value="提交" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="85" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="o7nku3Jd5gFQa7beX1s3-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="o7nku3Jd5gFQa7beX1s3-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="o7nku3Jd5gFQa7beX1s3-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="330" as="sourcePoint" />
+            <mxPoint x="150" y="120" as="sourcePoint" />
             <mxPoint x="390" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
