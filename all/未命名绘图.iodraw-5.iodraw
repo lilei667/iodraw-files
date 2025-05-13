@@ -265,11 +265,14 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RHy11BjKkjhDNlUvKvqm-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="o7nku3Jd5gFQa7beX1s3-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="-170" as="sourcePoint" />
+            <mxPoint x="580" y="-170" as="sourcePoint" />
             <mxPoint x="470" y="-220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-52" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-250" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
