@@ -151,10 +151,15 @@
         <mxCell id="o7nku3Jd5gFQa7beX1s3-34" value="维修" style="rhombus;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o7nku3Jd5gFQa7beX1s3-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o7nku3Jd5gFQa7beX1s3-4">
+        <mxCell id="o7nku3Jd5gFQa7beX1s3-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o7nku3Jd5gFQa7beX1s3-4" target="o7nku3Jd5gFQa7beX1s3-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="280" as="sourcePoint" />
             <mxPoint x="690" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o7nku3Jd5gFQa7beX1s3-37" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o7nku3Jd5gFQa7beX1s3-36">
+          <mxGeometry x="0.0583" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
