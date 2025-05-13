@@ -346,10 +346,13 @@
             <mxPoint x="640" y="-290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RHy11BjKkjhDNlUvKvqm-71" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RHy11BjKkjhDNlUvKvqm-70">
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-71" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RHy11BjKkjhDNlUvKvqm-70">
           <mxGeometry x="-0.1908" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-72" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-200" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
