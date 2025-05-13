@@ -51,8 +51,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RHy11BjKkjhDNlUvKvqm-4" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="860" width="80" height="60" as="geometry" />
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-4" value="发布" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="550" y="850" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
