@@ -461,7 +461,13 @@
         <mxCell id="RHy11BjKkjhDNlUvKvqm-98" value="user_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="490" width="93" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RHy11BjKkjhDNlUvKvqm-99" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-99" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RHy11BjKkjhDNlUvKvqm-97" target="o7nku3Jd5gFQa7beX1s3-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="360" as="sourcePoint" />
+            <mxPoint x="640" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-101" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="360" as="sourcePoint" />
             <mxPoint x="640" y="310" as="targetPoint" />
