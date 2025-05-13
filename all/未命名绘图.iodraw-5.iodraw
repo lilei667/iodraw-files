@@ -176,8 +176,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RHy11BjKkjhDNlUvKvqm-32" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="270" width="70" height="80" as="geometry" />
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-32" value="申请" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
