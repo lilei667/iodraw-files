@@ -173,8 +173,8 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o7nku3Jd5gFQa7beX1s3-40" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="120" width="80" height="80" as="geometry" />
+        <mxCell id="o7nku3Jd5gFQa7beX1s3-40" value="指派" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-10" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
