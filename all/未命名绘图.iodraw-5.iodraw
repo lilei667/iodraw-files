@@ -422,7 +422,7 @@
         <mxCell id="RHy11BjKkjhDNlUvKvqm-88" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="540" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RHy11BjKkjhDNlUvKvqm-89" value="username" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-89" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="540" width="93" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RHy11BjKkjhDNlUvKvqm-90" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RHy11BjKkjhDNlUvKvqm-88" target="o7nku3Jd5gFQa7beX1s3-2">
@@ -436,6 +436,12 @@
             <mxPoint x="590" y="560" as="sourcePoint" />
             <mxPoint x="640" y="510" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-92" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="644" y="300" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-93" value="username" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="734" y="300" width="93" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
