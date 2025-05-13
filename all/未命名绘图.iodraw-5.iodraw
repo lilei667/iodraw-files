@@ -438,10 +438,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RHy11BjKkjhDNlUvKvqm-92" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="644" y="300" width="80" height="50" as="geometry" />
+          <mxGeometry x="644" y="300" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RHy11BjKkjhDNlUvKvqm-93" value="username" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="734" y="300" width="93" height="50" as="geometry" />
+          <mxGeometry x="720" y="300" width="76.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RHy11BjKkjhDNlUvKvqm-94" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="160" as="sourcePoint" />
+            <mxPoint x="640" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
