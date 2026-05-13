@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZTi1Da01gh_MO9tPYFJI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZTi1Da01gh_MO9tPYFJI-1" target="ZTi1Da01gh_MO9tPYFJI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZTi1Da01gh_MO9tPYFJI-1" value="级联一级：宏观定位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -15,6 +18,12 @@
         </mxCell>
         <mxCell id="ZTi1Da01gh_MO9tPYFJI-4" value="整体检测：锁定目标区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTi1Da01gh_MO9tPYFJI-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
