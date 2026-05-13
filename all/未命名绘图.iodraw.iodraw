@@ -16,6 +16,11 @@
         <mxCell id="ZTi1Da01gh_MO9tPYFJI-2" value="级联二级：微观解析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZTi1Da01gh_MO9tPYFJI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZTi1Da01gh_MO9tPYFJI-3" target="ZTi1Da01gh_MO9tPYFJI-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZTi1Da01gh_MO9tPYFJI-3" value="级联三级：物理反演" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -29,7 +34,10 @@
           <mxGeometry x="440" y="228" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZTi1Da01gh_MO9tPYFJI-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTi1Da01gh_MO9tPYFJI-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
